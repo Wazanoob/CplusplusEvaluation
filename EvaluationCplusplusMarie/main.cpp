@@ -28,4 +28,7 @@ int main()
 	cout << endl;
 
 	patrick.RollInCar(10000);
+
+	cout << endl;
+	//superTuture.SumUp();
 }
